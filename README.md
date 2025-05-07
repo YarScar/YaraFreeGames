@@ -5,7 +5,7 @@ Target Audience - This is designed for students and young people who are interes
 
 Solution + Limitations - My project simulates how a gaming website works by letting users create accounts, log in, and find friends. It helps demonstrate user interaction, but it doesn’t include real games or live connections; just the interface and basic flow.
 
-Key Features / Key Components - I used random user. Users can create an account, log in, view a homepage, and simulate finding a friend on the platform. The program focuses on mimicking the layout and flow of a gaming website.
+Key Features / Key Components - I used random user API. Users can create an account, log in, view a homepage, and simulate finding a friend on the platform. The program focuses on mimicking the layout and flow of a gaming website. I also added Try and Except blocks to my code in order to make it efficient and not run into any errors.
 
 Technical Challenges + Future Plans - It was challenging to simulate user interactions realistically. With more time, I would add actual game sprites. I built the project step by step by starting with the layout, then login features, and finally the friend option.
 
