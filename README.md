@@ -1,4 +1,3 @@
----
 
 # 🎮 YaraFreeGames
 
@@ -101,7 +100,3 @@ except:
 * **Random User API** – For friend simulation
 * **Google Docs** – Planning and wireframing
 * **Inline Code Comments** – Documentation and clarity for learners
-
----
-
-Let me know if you'd like a matching `README.md` file or project folder structure recommendation!
